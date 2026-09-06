@@ -3,5 +3,6 @@ let function_01= require("./function")
 
 
 
-function_01(a.data)
-function_01(b.data)
+function_01(data.a)
+function_01(data.b)
+// console.log(module)
